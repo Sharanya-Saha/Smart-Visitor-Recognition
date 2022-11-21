@@ -4,4 +4,4 @@
 - Whenever a person is on the door the camera sensor is triggered and an image is clicked which is matched with the dataset and accordingly actions are take.
 - The project facilitates rule based desicion making on the recognised image.
 
-The code for the same can be found in the folder code and the instructions and dependencies of the same can be found [here](https://github.com/Sharanya-Saha/Smart-Visitor-Recognition/blob/master/code/README.txt)
+The code for the same can be found in the folder code and the instructions and dependencies of the same can be found [here](https://github.com/Sharanya-Saha/Smart-Visitor-Recognition/blob/master/code/README.txt).
