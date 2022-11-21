@@ -1,6 +1,6 @@
 # Smart-Visitor-Recognition
 
-- The main of the project is to create a smart visitor recognition system which notifies the owner with the help of internet, whenever a person is at the door.
+- The main aim of the project is to create a smart visitor recognition system which notifies the owner with the help of internet, whenever a person is at the door.
 - Whenever a person is on the door the camera sensor is triggered and an image is clicked which is matched with the dataset and accordingly actions are take.
 - The project facilitates rule based desicion making on the recognised image.
 
