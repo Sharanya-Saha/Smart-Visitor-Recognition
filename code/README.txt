@@ -1,12 +1,4 @@
-﻿CS698T PROJECT
-GROUP NUMBER: 02
 
-
-MEMBERS: 
-* Manjyot Singh Nanra(21111038)
-* Sharanya Saha(21111056)
-* Shiv Kumar Yadav(21111057)
-* Utkarsh Shrivastava(21111063)
 
 
 CONTENTS:
